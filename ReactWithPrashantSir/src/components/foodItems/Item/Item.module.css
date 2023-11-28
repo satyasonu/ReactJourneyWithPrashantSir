@@ -1,0 +1,11 @@
+.buybtn{
+  float: right;
+  background-color: rgb(201, 166, 235);
+  font-weight: bolder;
+  border-radius: 5px;
+  border-color: rgb(201, 166, 235);
+}
+
+.item{
+  color: rgb(157, 19, 19);
+}
