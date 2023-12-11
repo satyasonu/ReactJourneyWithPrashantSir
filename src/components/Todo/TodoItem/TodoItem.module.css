@@ -1,0 +1,13 @@
+.acc_body{
+  display: flex;
+  gap: 1rem;
+}
+
+.dltbtn{
+  margin-left: auto;
+}
+
+.todoItem{
+  /* width: fit-content; */
+  margin: 10px;
+}
