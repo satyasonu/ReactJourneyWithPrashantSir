@@ -1,0 +1,51 @@
+.card{
+  border: 3px solid #a8a8a8;
+  width: 230px;
+  margin: 10px;
+  height: 300;
+  padding: 1px;
+}
+
+
+.RnP{
+  display: flex;
+  flex-wrap: nowrap;
+  padding-bottom: 0;
+  height: 25px;
+}
+
+.rating{
+  margin-left: auto;
+}
+
+.PnD{
+  display: flex;
+  flex-wrap: nowrap;
+  gap: 6px;
+  height: 33px;
+  margin-top: 10px;
+}
+
+.price{
+  font-size: x-large;
+  font-weight:bolder;
+  padding: 0;
+  /* border: 1px solid #000; */
+}
+
+.discount{
+  font-size: x-small;
+  font-weight:bolder;
+  color: rgb(146, 123, 7);
+}
+
+.description{
+  font-size: small;
+  position:relative;
+}
+
+.title{
+  font-size: small;
+  height: fit-content;
+  /* border: 1px solid #000; */
+}
